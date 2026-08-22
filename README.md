@@ -1,118 +1,130 @@
+<!--
+PROFILE README FOR: gaurikirad2005-afk / gaurikirad2005-afk
+-->
+
 <div align="center">
 
-# GAURI KIRAD
+# 👋 Hi, I'm Gauri Kirad
 
-**Information Technology (Honors) · Java · DSA · Full-Stack Development**
+### B.Tech Information Technology (Honors) | Java | DSA | Full-Stack Development
 
-`Java Developer` · `DSA Enthusiast` · `Aspiring Software Developer`
+<a href="https://github.com/gaurikirad2005-afk">
+  <img src="https://img.shields.io/badge/GitHub-gaurikirad2005--afk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-<p>
-  <a href="https://github.com/gaurikirad2005-afk">
-    <img src="https://img.shields.io/badge/GitHub-gaurikirad2005--afk-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+> *Building strong foundations in software development, one project and one problem at a time.*
 
 </div>
 
 ---
 
-## $ cat about.md
+## 👩‍💻 About Me
 
-I'm a **final-year-track B.Tech Information Technology (Honors)** student building a strong foundation in **Java and Data Structures & Algorithms**, while actively developing **full-stack and IoT/ML projects**.
+I am a **B.Tech Information Technology (Honors)** student at **G. H. Raisoni College of Engineering and Management, Pune**, with a strong interest in **Java, Data Structures & Algorithms, and Full-Stack Development**.
 
-I enjoy turning **hardware + software into working systems** — from surveillance robots with object detection to full-stack web applications.
+I enjoy building practical projects that combine **software, hardware, and problem-solving**—from browser-controlled surveillance systems with real-time object detection to web-based applications.
 
 ```text
-ROLE      : Aspiring Software Developer (Student)
-EXPERIENCE: Academic + Project-based
-DOMAIN    : Software Dev | Web Dev | Java | DSA | IoT & ML
-STACK     : Java, Python, C/C++, JavaScript, PHP, SQL
-OPEN_TO   : Java Developer | Software Developer | Backend Developer
-            Full-Stack Developer | Software Engineering Internship
+ROLE       : Aspiring Software Developer
+EXPERIENCE : Academic + Project-Based
+FOCUS      : Java | DSA | Web Development | IoT & ML
+STACK      : Java, Python, C/C++, JavaScript, PHP, SQL
+OPEN TO    : Software Development | Backend | Full-Stack | Internships
 ```
 
 ---
 
-## $ tech-stack --list
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,php,mysql,git,github,vscode,arduino&perline=13" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,php,mysql,git,github,vscode,arduino&perline=14" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-0D1117?style=for-the-badge&logo=ultralytics&logoColor=00FFFF" />
-<img src="https://img.shields.io/badge/ESP32--CAM-0D1117?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square" />
+<img src="https://img.shields.io/badge/ESP32--CAM-333333?style=flat-square&logo=espressif&logoColor=white" />
 
 </div>
 
 ---
 
-## $ whoami --specialty
+## 🎯 Areas of Focus
 
 <div align="center">
 
-`▸ JAVA DEVELOPMENT` &nbsp; `▸ DATA STRUCTURES & ALGORITHMS` &nbsp; `▸ FULL-STACK DEVELOPMENT` &nbsp; `▸ MACHINE LEARNING`
+`Java Development` &nbsp; `Data Structures & Algorithms` &nbsp; `Full-Stack Development` &nbsp; `Machine Learning`
 
-`▸ COMPUTER VISION` &nbsp; `▸ IoT SYSTEMS`
+`Computer Vision` &nbsp; `IoT Systems` &nbsp; `Problem Solving`
 
 </div>
 
 ---
 
-## $ table --expertise
+## 📊 Skills Snapshot
 
-| Domain | Proficiency | Details |
+| Domain | Current Focus | Details |
 |---|---|---|
-| **Java & OOP** | ●●●●○ | Core Java, OOP concepts, strengthening for full-stack Java development |
-| **Data Structures & Algorithms** | ●●●○○ | Active daily practice and problem-solving focus |
-| **Web Development** | ●●●○○ | HTML, CSS, JavaScript, PHP, MySQL |
-| **Python / ML / CV** | ●●●○○ | OpenCV, YOLOv8 real-time object detection pipeline |
-| **IoT & Embedded Systems** | ●●●○○ | ESP32-CAM streaming, motor control, hardware integration |
-| **SQL & Databases** | ●●●○○ | MySQL schema design and query-driven application logic |
+| **Java & OOP** | Strong Foundation | Core Java and OOP concepts |
+| **Data Structures & Algorithms** | Actively Practicing | Problem-solving and algorithmic thinking |
+| **Web Development** | Building Projects | HTML, CSS, JavaScript, PHP, and MySQL |
+| **Python / ML / CV** | Project-Based Learning | OpenCV and YOLOv8 object detection |
+| **IoT & Embedded Systems** | Hands-On Development | ESP32-CAM streaming and motor control |
+| **SQL & Databases** | Application Development | MySQL schema design and database integration |
 
 ---
 
-## $ ls ./featured-projects
+# 🚀 Featured Projects
 
-### 🔻 Remote Controlled Surveillance Car with Object Detection
+## 🔻 Remote Controlled Surveillance Car with Object Detection
 
-A low-cost IoT-based surveillance platform with **real-time MJPEG video streaming, browser-based remote vehicle control, and live object detection**.
+A low-cost surveillance platform combining **IoT, computer vision, and web-based remote control**.
 
-| | |
+| Area | Details |
 |---|---|
-| **Stack** | ESP32-CAM, Python, Flask, OpenCV, YOLOv8, L298N Motor Driver |
-| **Scale** | End-to-end hardware + software system |
-| **Impact** | Real-time video streaming with live object detection and browser-controlled navigation |
-| **My Contribution** | Built the ESP32-CAM streaming system, remote control functionality, Python-based object detection pipeline, Flask dashboard, and hardware/software integration |
+| **Tech Stack** | ESP32-CAM, Python, Flask, OpenCV, YOLOv8n, L298N Motor Driver |
+| **Streaming** | Real-time MJPEG video streaming from ESP32-CAM |
+| **Control** | Browser-based remote vehicle control |
+| **Detection** | Python-based YOLOv8n object detection pipeline |
+| **Architecture** | End-to-end hardware + software integration |
 
-<details>
-<summary><b>📂 Daily Expense Tracker</b></summary>
-<br/>
-
-A web-based expense tracking application built to manage and organize daily expenses.
-
-**Stack:** HTML, CSS, JavaScript, PHP, MySQL
-
-</details>
+**Highlights**
+- 📹 Live camera streaming through ESP32-CAM
+- 🤖 Real-time object detection using YOLOv8n
+- 🎮 Remote navigation through a browser interface
+- 🔧 Hardware and software integration in one complete system
 
 ---
 
-## $ log --status --reverse-chronological
+## 💰 Daily Expense Tracker
+
+A web-based application for managing and tracking daily expenses.
+
+| Area | Details |
+|---|---|
+| **Tech Stack** | HTML, CSS, JavaScript, PHP, MySQL |
+| **Purpose** | Track and manage day-to-day expenses |
+| **Focus** | Web development, database integration, and practical application design |
+
+---
+
+# 🏆 Leadership & Activities
 
 ### 🎓 Training & Placement Coordinator — Current
 
-`G. H. Raisoni College of Engineering and Management, Pune`
+**G. H. Raisoni College of Engineering and Management, Pune**
 
-- Serving as a student coordinator bridging students and the placement cell.
-- Coordinating communication, scheduling, workshops, training sessions, and placement activities.
+- Serving as a student coordinator between students and the placement cell.
+- Assisting with communication, scheduling, workshops, training sessions, and placement activities.
 
 **Tags:** `Leadership` `Coordination`
 
 ### 🏆 Byte Brawl — 3rd Position
 
-- Competed and secured **3rd position** in a coding/technical competition.
+- Secured **3rd position** in a coding/technical competition.
 
 **Tags:** `Problem Solving` `Competitive`
 
@@ -128,134 +140,97 @@ A web-based expense tracking application built to manage and organize daily expe
 
 **Tags:** `Innovation` `Engineering`
 
-> **Note:** Currently a student — no professional industry work experience yet. The experience above reflects academic leadership, hackathons, and project work.
+> **Note:** I am currently a student and do not have professional industry work experience yet. The activities above reflect academic leadership, hackathons, competitions, and project work.
 
 ---
 
-## $ table --achievements
+# 🏅 Achievements
 
 | Achievement | Category |
 |---|---|
 | 🥉 **3rd Position — Byte Brawl** | Competition |
-| **Participant — Smart India Hackathon (Internal)** | Hackathon |
-| **Participant — Eurethon 2K24 Hackathon** | Hackathon |
-| **Training & Placement Coordinator** | Leadership |
-
 ---
 
-## $ echo $EDUCATION
+# 🎓 Education
 
 <div align="center">
 
-`🎓 B.TECH INFORMATION TECHNOLOGY (HONORS)`
+### B.Tech in Information Technology (Honors)
 
 **G. H. Raisoni College of Engineering and Management, Pune**
 
-**Expected Graduation: 2027** &nbsp;|&nbsp; **CGPA: 8.59**
+**Expected Graduation:** 2027 &nbsp;|&nbsp; **CGPA:** 8.59
 
 <br/>
 
-<img src="https://img.shields.io/badge/NPTEL-Effective%20Writing-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IBM-Certified%20Badge-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Honors-Information%20Technology-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Java%20%7C%20DSA-238636?style=for-the-badge" />
 
 </div>
 
 ---
 
-## $ fetch --github-analytics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurikirad2005-afk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurikirad2005-afk&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikirad2005-afk&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurikirad2005-afk&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## $ unlock --trophies
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gaurikirad2005-afk&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://raw.githubusercontent.com/gaurikirad2005-afk/gaurikirad2005-afk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
----
-
-## $ ./snake.sh --dark
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gaurikirad2005-afk/gaurikirad2005-afk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
-> ⚠️ The snake animation appears after the GitHub Actions workflow generates the SVG files and commits them to the `output` branch.
+> The snake animation is generated automatically using GitHub Actions.
 
 ---
 
-## $ cat current-focus.yml
+## 🌱 Currently Learning
 
 ```yaml
 learning:
-  - Java (Advanced / Full-Stack)
+  - Java (Advanced Concepts)
   - Data Structures & Algorithms
-  - Web Development
-  - Data Science & Machine Learning
+  - Full-Stack Development
+  - Machine Learning and Computer Vision
 
 building:
   - Remote Controlled Surveillance Car with Object Detection
-    (ESP32-CAM + YOLOv8)
+  - Daily Expense Tracker
 
 exploring:
+  - Backend Development
   - Full-Stack Java Development
   - Computer Vision
-  - Backend Development
+  - Software Engineering
 
 open_to:
-  - Software Developer
-  - Java Developer
-  - Backend Developer
-  - Full-Stack Developer
-  - Software Engineering Internship
+  - Software Development Opportunities
+  - Java Developer Roles
+  - Backend Development
+  - Full-Stack Development
+  - Software Engineering Internships
 ```
 
 ---
 
-## $ connect --all
-
 <div align="center">
 
+## 🤝 Let's Connect
+
 <a href="https://github.com/gaurikirad2005-afk">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<!-- Replace YOUR_EMAIL with your email address -->
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-*"Still compiling — but the build is looking good."* 🚀
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3A,100:22D3EE&height=120&section=footer" width="100%" />
+<i>Still compiling — but the build is looking good.</i> 🚀
 
 </div>
