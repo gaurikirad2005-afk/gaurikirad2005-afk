@@ -181,8 +181,6 @@ A web-based application for managing and tracking daily expenses.
 ---
 
 # 🐍 Contribution Snake
-![GitHub Contribution Snake](https://raw.githubusercontent.com/gaurikirad2005-afk/gaurikirad2005-afk/output/github-contribution-grid-snake.svg)
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/gaurikirad2005-afk/gaurikirad2005-afk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
